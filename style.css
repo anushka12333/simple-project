@@ -1,0 +1,109 @@
+*
+{
+	margin:0;
+	padding:0;
+}
+.banner img
+{
+	float:right;
+	margin-top:40px;
+	height:100vh;
+}	
+.main-nav
+{
+	float:left;
+	margin-top:30px;
+    
+}	
+.main-nav li
+{
+	display:inline-block;
+	
+}
+.main-nav li a
+{
+	color:red;
+	text-decoration:none;
+	padding:5px 20px;
+	font-family:"Roboto",sans-serif;
+	font-size:20px;
+}	
+.main-nav li.active a
+{
+	border:1px solid blue;
+}
+
+.main-nav li a:hover
+{
+	border : 1px solid blue;
+}
+
+
+.logo img
+{
+	height:200px;
+	float:left;
+	
+}
+.hero
+{
+	position:absolute;
+	width:1200px;
+	margin-left:150px;
+	margin-top:0;
+	
+}
+h1
+{
+	color:black;
+	text-transform:uppercase;
+	font-size:50px;
+	text-align:centre;
+	margin-top:375px;
+}
+.button
+{
+	margin-top:30px;
+	margin-left:70px;
+	
+}
+.btn
+{
+	border: 5px solid blue;
+	padding:10px 30px;
+	color:black;
+	text-decoration:none;
+	margin-right:5px;
+	font-size:13px;
+	text-transform:uppercase;
+}
+.btn-one
+{
+	background-color:orange;
+	font-family:"Roboto",sans-serif;
+}
+.btn-two
+{
+	font-family:"Roboto",sans-serif;
+}
+.btn-two:hover
+{
+	background-color:orange;
+	transition:all 0.5s ease; 
+	
+}
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
